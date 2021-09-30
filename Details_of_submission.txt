@@ -1,0 +1,17 @@
+Name: VINIT AWALE
+College: IIT Bombay
+Email ID: awale.vinit@gmail.com /18D070067@iitb.ac.in
+
+Details:
+-The file "exploration.py" has the final simulation code used for obtaining the videos in the folder Simulation_videos.
+-To obtain the different three different maps have been used namely "map.png" , "map2.png", "map3.png".
+-To change the map, change the statement, "map = pygame.image.load('map.png')" to the desired map in exploration.py
+- Also the initial position of the car should be changed according to the map in car.py
+- The 2D Lidar simulation has been done in car.py. The parameters (N,d,phi) for the Lidar should be changed there if necessary.
+- A variable K_theta has been used which specifies the sensitivity of omega on the readings obtained by the Lidar. I can be modified according to the environment.
+- Along with the codes an image called "car.png" has been added which specifes the image of car imported in "car.py"
+
+
+Honor Code:
+I pledge on my honour that I haven’t given or receive any unauthorized assistance 
+in the completion of the given task. 
