@@ -10,3 +10,6 @@ Lidar Simulation. This repository contains all codes written for selection for S
 <p align="center">
 ![Map 1](https://user-images.githubusercontent.com/55876739/142044952-5a86064a-1213-4b95-ba22-982133c04e15.gif)  
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/55876739/142044952-5a86064a-1213-4b95-ba22-982133c04e15.gif" alt="Map 1" width="400" height="400">
